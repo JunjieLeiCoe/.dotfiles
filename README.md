@@ -1,7 +1,3 @@
-# dotfiles_junjie
-These are my dotfiles, i.e: tmux.config, vimrc files -- waiting to repull and migrate 
+# My dotfiles
 
-
-test
-
-another test;:w
+-- Updated 08/2022, migrating to MacOS Monterey 15.02
